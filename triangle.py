@@ -1,0 +1,5 @@
+print("hello world")
+print()
+print("my name is Maciek")
+print("box")
+print("lechia")
